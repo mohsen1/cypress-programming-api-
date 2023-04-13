@@ -1,0 +1,9 @@
+{
+  "name": "cypress-programming-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "11"
+  }
+}
